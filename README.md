@@ -2,9 +2,10 @@
 I’m Sungi-Hwang, a data scientist with a strong background in physics and experience in developing financial engineering solutions.  
 ## Education & Experience  
 - 🎓 Master’s degree in Physics  
-- 💻 Former developer on a cutting-edge financial engineering engine  
+- 💻 Former developer on a financial engineering valuation engine at a bond rating agency
+## Kaggle Competitions
+- Participated in the March Machine Learning Mania 2025 competition, applying advanced predictive modeling techniques.
 
-<!--
 **Sungi-Hwang/Sungi-Hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
