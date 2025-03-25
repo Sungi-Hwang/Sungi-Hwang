@@ -3,6 +3,7 @@ I’m Sungi-Hwang, a data scientist with a strong background in physics and expe
 ## Education & Experience  
 - 🎓 Master’s degree in Physics  
 - 💻 Former developer on a financial engineering valuation engine at a bond rating agency
+- NICE P&I(2023.10~2024.12)
 ## Kaggle Competitions
 ## 🔗 Projects  
 - 🏀 [Kaggle March Madness 2025 Submission](https://github.com/Sungi-Hwang/kaggle-march-madness-2025)  
