@@ -8,7 +8,7 @@ I’m Sungi-Hwang, a data scientist with a strong background in physics and expe
 - 🏀 [Kaggle March Madness 2025 Submission](https://github.com/Sungi-Hwang/kaggle-march-madness-2025)  
   My end-to-end pipeline for predicting NCAA outcomes using XGBoost, GLM, and custom spline-based post-processing. Achieved strong performance through gender-merging and careful probability correction.
 
-**Sungi-Hwang/Sungi-Hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📬 Contact
+
+For questions, suggestions, or collaboration, feel free to reach out!  
+📧 Email: **sungi.hwang.work@gmail.com**
