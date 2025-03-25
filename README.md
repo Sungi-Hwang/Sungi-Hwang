@@ -11,21 +11,6 @@ I’m **Sungi Hwang**, a data scientist with a strong background in physics and 
 
 ---
 
-## 📄 Academic Research  
-- **Dynamic Polarization Response of PM Optical Fibers under Thermal Cycling**  
-  _Review of Scientific Instruments, 2022_  
-  Designed and implemented a **Python-based control script** to actively stabilize polarization in optical fibers during thermal cycling experiments.
-
-- **Optimization of Polarization Spectroscopy for the D₂ Line of ⁸⁷Rb Atoms**  
-  _Applied Sciences, 2021_  
-  Designed and simulated laser frequency locking systems for high-precision atomic transitions.
-
-- **Phase-Locking of Dual DFB Fiber Lasers for ⁸⁷Rb Interferometry**  
-  _Current Applied Physics, 2023_  
-  Implemented **GHz-range optical phase-locking** for precision measurements in atom interferometry.
-
----
-
 ## 🎓 Education  
 - **M.S. in Physics**, Chonnam National University  
   Focus: Laser optics, experimental design, signal processing, simulation
@@ -43,6 +28,21 @@ I’m **Sungi Hwang**, a data scientist with a strong background in physics and 
 - **Languages**: Python, C++, C, VBA  
 - **Tools**: Git, SQL  
 - **Libraries**: NumPy, Pandas, Scikit-learn, XGBoost, Statsmodels, Matplotlib
+
+---
+
+## 📄 Academic Research  
+- **Dynamic Polarization Response of PM Optical Fibers under Thermal Cycling**  
+  _Review of Scientific Instruments, 2022_  
+  Designed and implemented a **Python-based control script** to actively stabilize polarization in optical fibers during thermal cycling experiments.
+
+- **Optimization of Polarization Spectroscopy for the D₂ Line of ⁸⁷Rb Atoms**  
+  _Applied Sciences, 2021_  
+  Designed and simulated laser frequency locking systems for high-precision atomic transitions.
+
+- **Phase-Locking of Dual DFB Fiber Lasers for ⁸⁷Rb Interferometry**  
+  _Current Applied Physics, 2023_  
+  Implemented **GHz-range optical phase-locking** for precision measurements in atom interferometry.
 
 ---
 
