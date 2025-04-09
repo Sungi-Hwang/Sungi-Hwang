@@ -20,7 +20,8 @@ I’m **Sungi Hwang**, a data scientist with a strong background in physics and 
 ## 🔗 Projects  
 - 🏀 [**Kaggle March Madness 2025 Submission**](https://github.com/Sungi-Hwang/kaggle-march-madness-2025)  
   End-to-end pipeline for predicting NCAA outcomes using XGBoost, GLM, and spline-based probability correction.  
-  Improved model generalization by **merging men’s and women’s data**, and enhanced calibration through **custom post-processing**.
+  Improved model generalization by **merging men’s and women’s data**, and enhanced calibration through **custom post-  
+  processing**. 
   Final leaderboard position: **397/1727**
 ---
 
