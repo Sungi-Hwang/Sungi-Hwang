@@ -23,6 +23,16 @@ I’m **Sungi Hwang**, a data scientist with a strong background in physics and 
   Improved model generalization by **merging men’s and women’s data**, and enhanced calibration through **custom post- 
   processing**. <br>
   Final leaderboard position: **397/1727**
+  
+- 🕵️ [**Korean Crime Statistics Analysis (2011–2022)**](https://github.com/Sungi-Hwang/korean-crime-statistics-2011-2022)  
+  An end-to-end data pipeline analyzing Korean crime trends across 12 years (2011–2022) using population-normalized rates  
+  and user-defined crime classification. The project includes:  
+  - **Automated data collection** from KOSIS Open API  
+  - **Custom classification** of crime types (e.g., violent, theft, sexual, gambling)  
+  - **XGBoost regression modeling** for crime rate prediction  
+  - **Interactive visual analytics** via Flask + Plotly  
+  Focused on uncovering **inter-crime correlations** and **regional crime trends**, this tool provides insight for future  
+  policy evaluation and prediction tasks.
 ---
 
 ## 🧰 Tech Stack  
