@@ -22,7 +22,7 @@ I’m **Sungi Hwang**, a data scientist with a strong background in physics and 
   End-to-end pipeline for predicting NCAA outcomes using XGBoost, GLM, and spline-based probability correction.  
   Improved model generalization by **merging men’s and women’s data**, and enhanced calibration through **custom post- 
   processing**. <br>
-  Final leaderboard position: **397/1727**
+  Final leaderboard position: **393/1727**
   
 - 🕵️ [**Korean Crime Statistics Analysis (2011–2022)**](https://github.com/Sungi-Hwang/KCrimeInsight)  
   An end-to-end data pipeline analyzing Korean crime trends across 12 years (2011–2022) using population-normalized rates  
