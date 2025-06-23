@@ -18,7 +18,7 @@ I’m **Sungi Hwang**, a data scientist with a strong background in physics and 
 ---
 
 ##  Projects  
--  [**Car Image Classification with EfficientNet & Meta Features**]((https://github.com/Sungi-Hwang/Carclassification)
+-  [**Car Image Classification with EfficientNet & Meta Features**](https://github.com/Sungi-Hwang/Carclassification)
    End-to-end image classification pipeline built for a Korean car classification competition.  
    Utilized **EfficientNet-B5** as a visual backbone, and incorporated additional **meta features** like **image color mean** and **aspect ratio**.  
    The final solution integrated multiple techniques to enhance generalization and robustness:  
