@@ -50,8 +50,8 @@ I’m **Sungi Hwang**, a data scientist with a strong background in physics and 
   for future policy evaluation and prediction tasks.
 
 - [**Algorithm Test Practice**](https://github.com/Sungi-Hwang/Coding-Test)
-- Upload code that solved the algorithm test problem myself
-- I've organized the code and the flow of thoughts on how to solve it.
+  - Upload code that solved the algorithm test problem myself
+  - I've organized the code and the flow of thoughts on how to solve it.
 
 ---
 
