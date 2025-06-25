@@ -48,6 +48,11 @@ I’m **Sungi Hwang**, a data scientist with a strong background in physics and 
   - **Interactive visual analytics** via Flask + Plotly  
   Focused on uncovering **inter-crime correlations** and **regional crime trends**, this tool provides insight  
   for future policy evaluation and prediction tasks.
+
+- [**Algorithm Test Practice**](https://github.com/Sungi-Hwang/Coding-Test)
+- Upload code that solved the algorithm test problem myself
+- I've organized the code and the flow of thoughts on how to solve it.
+
 ---
 
 ##  Tech Stack  
