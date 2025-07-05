@@ -1,10 +1,9 @@
-## 👋 안녕하세요
 
 저는 **황순기**입니다. 물리 기반의 정밀 실험 설계와 Python 자동화 제어를 시작으로, 금융 평가 엔진 및 머신러닝 프로젝트까지 다양한 현장에서 문제 해결 경험을 쌓아온 데이터 과학자이자 엔지니어입니다.
 
 ---
 
-## 💼 경력
+## 경력
 
 - **NICE P&I** (2023년 10월 – 2024년 12월)  
   └ 금융공학연구소 · 평가엔진팀  
@@ -14,14 +13,14 @@
 
 ---
 
-## 🎓 학력
+##  학력
 
 - **전남대학교 물리학 석사**  
   연구 주제: 광학 제어, 실험 설계, 신호 처리 및 Python 기반 자동화
 
 ---
 
-## 🚀 주요 프로젝트
+##  주요 프로젝트
 
 ### [자동차 이미지 분류 (Dacon 대회)](https://github.com/Sungi-Hwang/Carclassification)
 
@@ -58,7 +57,7 @@
 
 ---
 
-## 🛠️ 기술 스택
+##  기술 스택
 
 - **언어**: Python, C++, C, VBA
 - **프레임워크 & 라이브러리**: PyTorch, Scikit-learn, XGBoost, Statsmodels, NumPy, Pandas, Matplotlib, SQL, Git
@@ -66,7 +65,7 @@
 
 ---
 
-## 🧪 학술 연구
+##  학술 연구
 
 - **열 주기 변조에 따른 PM fiber의 동적 편광 응답**  
   Python 기반 제어 스크립트 설계, ±0.1℃ 수준의 정밀 편광 안정화
@@ -79,13 +78,13 @@
 
 ---
 
-## 💬 연락처
+##  연락처
 
 기술 협업 및 문의는 언제든 환영합니다!  
-📧 **sungi.hwang.work@gmail.com**
+ **sungi.hwang.work@gmail.com**
 
 ---
 
-## 🔗 GitHub 링크
+##  GitHub 링크
 
-➡️ [https://github.com/Sungi-Hwang/Sungi-Hwang](https://github.com/Sungi-Hwang/Sungi-Hwang)
+[https://github.com/Sungi-Hwang/Sungi-Hwang](https://github.com/Sungi-Hwang/Sungi-Hwang)
