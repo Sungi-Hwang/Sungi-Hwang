@@ -80,9 +80,20 @@ Public data analysis and visualization project using automated collection, popul
 
 First-author research on polarization-maintaining optical fibers under thermal cycling, experimental measurement automation, and precision optical instrumentation.
 
-### Optical phase locking / Rb atom interferometry research
+### Domestic Conference Presentation, 2020
+**Dynamic polarization response of polarization-maintaining fibers by periodic thermal cycling method**
 
-Research experience in optical phase locking, laser stabilization, spectroscopy, feedback control, and precision measurement systems.
+Presented first-author research on thermal cycling-based analysis of polarization-maintaining fiber behavior.
+
+### Domestic Conference Presentation, 2021
+**Characterization of optical phase-locked two distributed-feedback fiber lasers for Rb-87 atom interferometry**
+
+Co-authored research on optical phase locking of dual DFB fiber lasers for precision measurement and atom interferometry systems.
+
+### Domestic Conference Presentation, 2022
+**Theoretical and Experimental Study of Optimization of Polarization Spectroscopy for the D2 Closed Transition Line of Rb-87 Atoms**
+
+Co-authored research on laser spectroscopy optimization for the Rb D2 transition line, combining theoretical analysis and experimental validation.
 
 ---
 
