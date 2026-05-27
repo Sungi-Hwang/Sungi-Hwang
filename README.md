@@ -2,9 +2,18 @@
 
 **AI / Data Engineer with a Physics M.S. and financial engineering background**
 
-I build practical AI systems that connect **domain knowledge, data pipelines, model evaluation, and production-oriented engineering**.
+I build practical AI and data systems that connect **domain knowledge, data pipelines, model evaluation, retrieval workflows, and production-oriented engineering**.
 
-My work has moved across three connected areas: precision physics experiments, financial valuation engines, and AI systems for document intelligence / retrieval / product development.
+My profile combines four areas: **Physics M.S.**, **financial engineering / valuation engines**, **LLM/RAG and document intelligence**, and **product building**.
+
+---
+
+## Summary
+
+- **Physics M.S.**: research experience in precision optical instrumentation, polarization-maintaining fibers, laser spectroscopy, and Rb-87 atom interferometry systems.
+- **Financial engineering / valuation engine**: C++-based bond and structured-product valuation logic, numerical model validation, pricing-difference debugging, and financial calculation reliability.
+- **LLM/RAG / document intelligence**: AI search workflows, Korean NER-based pseudonymization, scientific document structuring, vector search, graph relationships, metadata filtering, and evidence-grounded generation.
+- **Product building**: released a Korean chess mobile app on Google Play and built public portfolio projects across AI, data analysis, audio processing, and competition pipelines.
 
 ---
 
@@ -13,76 +22,89 @@ My work has moved across three connected areas: precision physics experiments, f
 ### Semyeongsoft — AI Research Institute
 **May 2026 – Present**
 
-- AI platform development in the bio and scientific knowledge domain
-- LLM/RAG workflows for search over papers, patents, materials, Q/A datasets, compounds, and sequences
-- Hybrid retrieval architecture with vector search, graph relationships, metadata filtering, knowledge cards, and evidence-grounded generation
-- Focused on scientific knowledge search, structured document processing, and production-oriented AI service design
+- Work on AI platform development in the bio and scientific knowledge domain.
+- Design LLM/RAG workflows for scientific document search, structured document processing, and evidence-grounded answer generation.
+- Explore hybrid retrieval structures combining vector search, graph relationships, metadata filtering, knowledge-card-style structured evidence, deduplication, and evidence ranking.
+- Focus on practical AI service design for scientific knowledge discovery while avoiding exposure of internal customer, repository, security, or private data details.
 
 ### Cognitum AI — AI Consulting Team
 **Nov 2025 – Apr 2026**
 
-- Developed and designed AI workflows for document search, document understanding, anomaly detection, and workflow automation
-- Worked on LLM/RAG-based document intelligence, Korean NER, and API-oriented AI pipeline design
-- Contributed to AI platform proposal work, architecture design, and retrieval-based knowledge service planning
-- Built practical solution flows that combine data preprocessing, model usage, evaluation logic, and service integration
+- Developed AI solution workflows for document search, document understanding, anomaly detection, pseudonymization, and workflow automation.
+- Worked on LLM/RAG-based document intelligence, Korean NER pipelines, API-oriented AI service integration, and evaluation logic.
+- Contributed to AI platform proposal work, architecture design, and retrieval-based knowledge service planning.
+- Built practical solution flows that combine preprocessing, model usage, rule-based post-processing, validation, and service-oriented delivery.
 
 ### NICE P&I — Financial Engineering Lab / Valuation Engine Team
 **Oct 2023 – Dec 2024**
 
-- Developed and validated valuation engine logic for bonds, structured products, and financial instruments
-- Improved CD/CP valuation engine logic and integrated domestic/overseas evaluation structures
-- Validated financial models including Hull-White interest-rate scenarios, OAS logic, FRM rate calculation, and long-tenor yield estimation
-- Debugged pricing differences between valuation engines and API-based integration systems using C++, SQL, Excel calculators, and Postman
+- Developed and validated valuation engine logic for bonds, structured products, and financial instruments.
+- Improved CD/CP valuation engine logic and integrated domestic / overseas evaluation structures.
+- Validated financial models including Hull-White interest-rate scenarios, OAS logic, FRM rate calculation, and long-tenor yield estimation.
+- Debugged pricing differences between valuation engines and API-based integration systems using C++, SQL, Excel calculators, and Postman.
 
 ---
 
-## Professional Projects
+## AI Solution Projects
 
 ### AI-based Tax Appeal Search & Case Investigation Support
 **Cognitum AI | 2025.11 – 2026.04**
 
-- Designed and developed an AI-assisted search and investigation workflow for tax appeal / administrative case documents
-- Worked on document search structure, data processing flow, retrieval architecture, and model usage pipeline
-- Participated in proposal writing and architecture design for an AI platform project
-- Focused on making domain documents searchable, comparable, and usable for case investigation workflows
+- Designed and developed an AI-assisted search and investigation workflow for tax appeal / administrative case documents.
+- Worked on document search structure, data processing flow, retrieval architecture, and model usage pipeline.
+- Focused on making domain documents searchable, comparable, and usable for case investigation support workflows.
+- Participated in proposal writing and architecture design for an AI platform project.
 
 ### Time-series Anomaly Detection Solution
 **Cognitum AI | 2025.11 – 2025.12**
 
-- Built anomaly detection logic for operational time-series data
-- Combined forecasting-oriented analysis with statistical guardrail logic
-- Designed evaluation logic to distinguish normal fluctuation from meaningful abnormal behavior
-- Focused on practical monitoring and decision-support use cases rather than one-off modeling
+- Built anomaly detection logic for operational time-series data.
+- Combined forecasting-oriented analysis with statistical guardrail logic.
+- Designed evaluation logic to distinguish normal fluctuation from meaningful abnormal behavior.
+- Focused on practical monitoring and decision-support use cases rather than one-off modeling.
 
-### Korean NER-based Anonymization Pipeline
+### Korean NER-based Pseudonymization / Document Processing Pipeline
 **Cognitum AI | 2025.12 – 2026.03**
 
-- Built a Korean NER-based text processing pipeline for sensitive-entity detection and anonymized document handling
-- Worked on label design, entity extraction, rule-based post-processing, and API-oriented integration
-- Focused on practical document AI workflows where extraction quality, consistency, and reviewability matter
+- Built a Korean NER-based document processing pipeline for sensitive-entity detection and pseudonymized document handling.
+- Worked on label design, entity extraction, rule-based post-processing, configurable masking / aliasing logic, and API-oriented integration.
+- Focused on practical document AI workflows where extraction quality, consistency, traceability, and reviewability matter.
+
+### AI Platform Proposal and Architecture Design
+**Cognitum AI | 2025.11 – 2026.04**
+
+- Contributed to AI platform proposal materials and technical architecture planning.
+- Structured solution flows around document intelligence, retrieval workflows, deployment constraints, monitoring, security, and operational reliability.
+- Translated business requirements into AI workflow components, system diagrams, evaluation criteria, and implementation plans.
+
+---
+
+## Financial Engineering / Valuation Engine Projects
+
+These projects were financial engineering and valuation engine projects, not AI or ML projects.
 
 ### CD/CP Valuation Engine Integration
 **NICE P&I | 2024.01 – 2024.03**
 
-- Improved and integrated CD/CP valuation engine logic
-- Refactored KRW-only logic into a structure supporting global day-count and business-day conventions
-- Integrated domestic and overseas CD/CP evaluation logic and data structures
-- Improved output-unit decimal handling and rounding behavior
+- Improved and integrated CD/CP valuation engine logic.
+- Refactored KRW-only logic into a structure supporting global day-count conventions and business-day conventions.
+- Integrated domestic and overseas CD/CP evaluation logic and data structures.
+- Improved output-unit decimal handling and rounding behavior.
 
 ### Financial Valuation Logic Verification & Engine Testing
 **NICE P&I | 2024.03 – 2024.06**
 
-- Verified Hull-White-based interest-rate scenario generation and FRM rate calculation logic
-- Reviewed OEB bond OAS calculation logic
-- Improved accrued-interest calculation for prepaid bond structures by converting cashflow logic to a postpaid structure and testing edge cases
-- Reduced pricing mismatches and errors between the SB valuation engine and Postman-based integration checks
+- Verified Hull-White-based interest-rate scenario generation and FRM rate calculation logic.
+- Reviewed OEB bond OAS calculation logic.
+- Improved accrued-interest calculation for prepaid bond structures by converting cashflow logic to a postpaid structure and testing edge cases.
+- Reduced pricing mismatches and errors between valuation engines and Postman-based integration checks.
 
 ### Long-tenor Corporate Bond Yield Estimation Logic
 **NICE P&I | 2024.06 – 2024.12**
 
-- Designed a hazard-rate-based YTM inversion approach for long-maturity corporate bonds
-- Applied credit-rating-based default probability assumptions to compensate for sparse transaction data
-- Improved evaluation logic for low-credit / long-tenor bonds where direct market observations were insufficient
+- Designed a hazard-rate-based YTM inversion approach for long-maturity corporate bonds.
+- Applied credit-rating-based default probability assumptions to compensate for sparse transaction data.
+- Improved evaluation logic for low-credit / long-tenor bonds where direct market observations were insufficient.
 
 ---
 
@@ -92,48 +114,74 @@ My work has moved across three connected areas: precision physics experiments, f
 
 App: [Google Play](https://play.google.com/store/apps/details?id=com.nightsynclabs.janggihansu)
 
-Built and released a Korean chess mobile app with AI match mode, offline two-player mode, daily puzzles, problem sharing, game record review, board setup continuation, and move hint features.
+Released a Korean chess mobile app built with Flutter and Android native / C++ engine integration.
+
+- Supports AI match mode, offline two-player play, puzzle solving, game record review, problem sharing, hints, and continuation from custom board states.
+- Connected a native engine layer with the mobile application to provide playable AI difficulty and hint features.
+- Built and published the product as a real Google Play mobile app rather than a prototype-only project.
 
 ### Bio-domain Hybrid RAG & Knowledge Card Architecture
 
-Designed a retrieval architecture for large-scale scientific knowledge search using vector search, metadata filters, graph relationships, structured knowledge cards, evidence ranking, and final LLM answer generation.
+Public portfolio architecture concept for improving scientific knowledge retrieval and evidence-grounded generation.
+
+- Designed around vector DB search, graph DB relationships, metadata filtering, structured knowledge cards, evidence ranking, deduplication, and relation expansion.
+- Targets large-scale bio / scientific document search where many similar entities, aliases, papers, patents, materials, compounds, and Q/A entries need to be searched and summarized.
+- Emphasizes reusable intermediate knowledge structures instead of relying only on raw chunk retrieval.
 
 ### LLM-based Scientific Document Structuring / Experiment Wiki
 
-Designed a workflow that converts research documents, experiment logs, configuration diffs, and model results into reusable Dataset Cards and Experiment Cards.
+Knowledge-structuring system concept for turning research and experiment artifacts into reusable engineering memory.
 
-### AI Audio Processing Pipeline
+- Structures papers, experiment logs, configuration diffs, metrics, representative samples, and dataset notes into reusable knowledge objects.
+- Uses concepts such as Dataset Cards, Experiment Cards, metric records, code-diff summaries, and experiment interpretation notes.
+- Aims to support model development review, experiment comparison, regression analysis, and future retrieval-augmented reasoning.
+
+### AI Audio Processing Pipeline / KpopProject
 
 Repository: [KpopProject](https://github.com/Sungi-Hwang/KpopProject)
 
-Built an audio processing pipeline around model-driven audio transformation and vocal preprocessing.
+Built an audio processing and inference automation pipeline around AI-based voice and vocal processing.
+
+- Worked with RVC-based voice conversion, Demucs-based vocal separation, feature extraction, inference automation, and FastAPI-style service flow.
+- Included post-processing and mixing logic using ffmpeg-oriented workflows.
+- Focused on turning model components into a usable audio-processing pipeline.
 
 ### Dacon Boost Up AI — Molecular Property Prediction
 
-Built a regression pipeline for predicting CYP3A4 inhibition using SMILES-based molecular features.
+Built a regression pipeline for predicting CYP3A4 inhibition from molecular structure features.
 
-- RDKit physicochemical descriptors and Morgan Fingerprint features
-- CatBoost regression with Optuna-based parameter tuning
-- Domain-informed interpretation using Lipinski-style molecular properties
+- Used SMILES-based features, RDKit descriptors, Morgan Fingerprint, CatBoost, and Optuna.
+- Combined chemistry-informed features with model tuning and validation workflows.
 - Result: **13 / 763**
 
 ### Car Image Classification
 
 Repository: [Carclassification](https://github.com/Sungi-Hwang/Carclassification)
 
-EfficientNet-based image classification, meta feature fusion, cross-validation, ensemble inference, and knowledge distillation. Result: **Dacon private leaderboard 88 / 748**
+Built image classification pipelines for vehicle class prediction.
 
-### NCAA March Madness Prediction Pipeline
+- Experimented with EfficientNet, ConvNeXt, knowledge distillation, focal loss, class-balanced weighting, augmentation, cross-validation, and ensemble inference.
+- Focused on class imbalance handling and robust model evaluation.
+- Result: **Dacon private leaderboard 88 / 748**
+
+### Kaggle March Madness 2025
 
 Repository: [kaggle-march-madness-2025](https://github.com/Sungi-Hwang/kaggle-march-madness-2025)
 
-XGBoost margin prediction, GLM-style team strength estimation, feature engineering, spline calibration, and conservative probability clipping. Result: **Kaggle 393 / 1,727**
+Built an NCAA tournament probability prediction pipeline.
+
+- Used GLM-style features, XGBoost, spline calibration, confidence clipping, and conservative probability prediction.
+- Focused on calibrated probabilities rather than only binary win/loss prediction.
+- Result: **Kaggle 393 / 1,727**
 
 ### Korean Crime Statistics Analysis
 
 Repository: [KCrimeInsight](https://github.com/Sungi-Hwang/KCrimeInsight)
 
-Public data analysis and visualization project using automated collection, population-normalized rates, XGBoost experiments, Flask, and Plotly.
+Public data analysis and visualization project using Korean crime statistics.
+
+- Used public data, KOSIS-based statistical sources, population-normalized rates, XGBoost experiments, Flask, and Plotly.
+- Built an analysis workflow that connects data collection, feature engineering, modeling, and dashboard-style visualization.
 
 ---
 
@@ -142,7 +190,7 @@ Public data analysis and visualization project using automated collection, popul
 ### Review of Scientific Instruments — AIP Publishing, 2022
 **Dynamic polarization response of polarization-maintaining fibers by periodic thermal cycling method**
 
-First-author research on polarization-maintaining optical fibers under thermal cycling, experimental measurement automation, and precision optical instrumentation.
+First-author research on polarization-maintaining optical fibers under periodic thermal cycling, experimental measurement automation, and precision optical instrumentation.
 
 ### Domestic Conference Presentation, 2020
 **Dynamic polarization response of polarization-maintaining fibers by periodic thermal cycling method**
@@ -163,10 +211,11 @@ Co-authored research on laser spectroscopy optimization for the Rb D2 transition
 
 ## Technical Stack
 
-- **Languages**: Python, C++, C, SQL, VBA, JavaScript/TypeScript basics, Dart/Flutter basics
-- **AI / Data**: PyTorch, Scikit-learn, XGBoost, CatBoost, Statsmodels, NumPy, Pandas, Matplotlib, OpenCV
-- **LLM / Backend**: FastAPI, Pydantic, LangGraph, vector search concepts, graph/RAG architecture, REST API design, evaluation pipelines
-- **Tools**: Git, GitHub, Docker basics, Postman, Jupyter, CMake/NDK experience
+- **Languages**: Python, C++, C, SQL, VBA, JavaScript / TypeScript basics, Dart / Flutter basics
+- **AI / Data**: PyTorch, Scikit-learn, XGBoost, CatBoost, Statsmodels, NumPy, Pandas, Matplotlib, OpenCV, RDKit
+- **LLM / Retrieval / Backend**: FastAPI, Pydantic, LangGraph, RAG workflow design, vector search, graph-based retrieval concepts, REST API design, evaluation pipelines
+- **Financial Engineering**: Bond valuation logic, structured-product valuation support, Hull-White model validation, OAS review, YTM estimation, day-count conventions, business-day conventions
+- **Tools**: Git, GitHub, Docker basics, Postman, Jupyter, Excel calculators, CMake / NDK experience, ffmpeg-oriented workflows
 
 ---
 
