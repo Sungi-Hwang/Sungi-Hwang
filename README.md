@@ -120,22 +120,6 @@ Released a Korean chess mobile app built with Flutter and Android native / C++ e
 - Connected a native engine layer with the mobile application to provide playable AI difficulty and hint features.
 - Built and published the product as a real Google Play mobile app rather than a prototype-only project.
 
-### Bio-domain Hybrid RAG & Knowledge Card Architecture
-
-Public portfolio architecture concept for improving scientific knowledge retrieval and evidence-grounded generation.
-
-- Designed around vector DB search, graph DB relationships, metadata filtering, structured knowledge cards, evidence ranking, deduplication, and relation expansion.
-- Targets large-scale bio / scientific document search where many similar entities, aliases, papers, patents, materials, compounds, and Q/A entries need to be searched and summarized.
-- Emphasizes reusable intermediate knowledge structures instead of relying only on raw chunk retrieval.
-
-### LLM-based Scientific Document Structuring / Experiment Wiki
-
-Knowledge-structuring system concept for turning research and experiment artifacts into reusable engineering memory.
-
-- Structures papers, experiment logs, configuration diffs, metrics, representative samples, and dataset notes into reusable knowledge objects.
-- Uses concepts such as Dataset Cards, Experiment Cards, metric records, code-diff summaries, and experiment interpretation notes.
-- Aims to support model development review, experiment comparison, regression analysis, and future retrieval-augmented reasoning.
-
 ### AI Audio Processing Pipeline / KpopProject
 
 Repository: [KpopProject](https://github.com/Sungi-Hwang/KpopProject)
@@ -187,25 +171,20 @@ Public data analysis and visualization project using Korean crime statistics.
 
 ## Academic Research
 
+### Applied Sciences — MDPI, 2021
+**Theoretical and Experimental Study of Optimization of Polarization Spectroscopy for the D2 Closed Transition Line of Rb-87 Atoms**
+
+Co-authored research on polarization spectroscopy optimization for the Rb-87 D2 closed transition line, combining theoretical analysis and experimental validation.
+
 ### Review of Scientific Instruments — AIP Publishing, 2022
 **Dynamic polarization response of polarization-maintaining fibers by periodic thermal cycling method**
 
 First-author research on polarization-maintaining optical fibers under periodic thermal cycling, experimental measurement automation, and precision optical instrumentation.
 
-### Domestic Conference Presentation, 2020
-**Dynamic polarization response of polarization-maintaining fibers by periodic thermal cycling method**
-
-Presented first-author research on thermal cycling-based analysis of polarization-maintaining fiber behavior.
-
-### Domestic Conference Presentation, 2021
+### Current Applied Physics — Elsevier, 2023
 **Characterization of optical phase-locked two distributed-feedback fiber lasers for Rb-87 atom interferometry**
 
 Co-authored research on optical phase locking of dual DFB fiber lasers for precision measurement and atom interferometry systems.
-
-### Domestic Conference Presentation, 2022
-**Theoretical and Experimental Study of Optimization of Polarization Spectroscopy for the D2 Closed Transition Line of Rb-87 Atoms**
-
-Co-authored research on laser spectroscopy optimization for the Rb D2 transition line, combining theoretical analysis and experimental validation.
 
 ---
 
