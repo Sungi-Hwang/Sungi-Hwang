@@ -171,6 +171,12 @@ Public data analysis and visualization project using Korean crime statistics.
 
 ## Academic Research
 
+### Master's Thesis — Chonnam National University, 2023
+**[Development of a mobile laser system for quantum atomic gravimeter](https://www.dbpia.co.kr/journal/detail?nodeId=T16672034)**  
+Korean title: **양자원자중력계를위한 이동형레이저 시스템 개발**
+
+Master's thesis on a rack-based mobile laser system for quantum atomic gravimetry, including frequency stabilization, phase stabilization, optical fiber-based laser system design, and polarization stabilization.
+
 ### Applied Sciences — MDPI, 2021
 **Theoretical and Experimental Study of Optimization of Polarization Spectroscopy for the D2 Closed Transition Line of Rb-87 Atoms**
 
@@ -184,7 +190,7 @@ First-author research on polarization-maintaining optical fibers under periodic 
 ### Current Applied Physics — Elsevier, 2023
 **Characterization of optical phase-locked two distributed-feedback fiber lasers for Rb-87 atom interferometry**
 
-Co-authored research on optical phase locking of dual DFB fiber lasers for precision measurement and atom interferometry systems.
+Co-authored research on optical phase locking of dual DFB fiber lasers for precision measurement and Rb-87 atom interferometry systems.
 
 ---
 
