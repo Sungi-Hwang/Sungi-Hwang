@@ -1,82 +1,230 @@
-##  Hi there  
-I’m **Sungi Hwang**, a data scientist with a strong background in physics and hands-on experience developing financial engineering solutions.
+# Sungi Hwang (황순기)
+
+**AI / Data Engineer with a Physics M.S. and financial engineering background**
+
+I build practical AI systems that connect **domain knowledge, data pipelines, model evaluation, and production-oriented engineering**.
+
+My background spans:
+
+- **Physics & optical instrumentation**: laser optics, precision measurement, experimental automation
+- **Financial engineering**: valuation engines, numerical model validation, structured product logic
+- **AI / data systems**: machine learning competitions, LLM/RAG architecture, document intelligence, API pipelines
+- **Product building**: mobile app release, backend APIs, and end-to-end prototype development
 
 ---
 
-## Experience  
-- **NICE P&I** (Oct 2023 – Dec 2024)  
-  └ Financial Engineering Lab · **Valuation Engine Team**  
-  - Developed pricing models and risk assessment tools for bonds and structured products  
-  - Previously contributed to valuation engines at a bond rating agency
+## Current Focus
+
+I am currently focused on building AI systems that are not only model-driven, but also **retrieval-aware, evidence-grounded, and operationally maintainable**.
+
+Key interests:
+
+- **LLM / RAG system design** for scientific and domain-specific knowledge search
+- **Hybrid retrieval** using vector search, metadata filtering, graph relationships, and structured knowledge cards
+- **LLM-based document structuring** for papers, patents, Q/A datasets, and experiment records
+- **Evaluation pipelines** for comparing fine-tuned models, open-book prompting, and retrieval-augmented workflows
+- **Production AI engineering** with FastAPI, schema validation, logging, and reproducible pipelines
 
 ---
 
-## Education  
-- **M.S. in Physics**, Chonnam National University  
-  Focus: Laser optics, experimental design, signal processing, simulation
+## Experience
 
----
-## Projects
+### AI / Data / Engineering
 
-- [**Car Image Classification with EfficientNet & Meta Features**](https://github.com/Sungi-Hwang/Carclassification)  
-  End-to-end image classification pipeline built for a Korean car classification competition.  
-  Utilized **EfficientNet-B5** as a visual backbone, and incorporated additional **meta features** like **image color mean** and **aspect ratio**.  
-  The final solution integrated multiple techniques to enhance generalization and robustness:  
-  - **5-Fold cross-validation** with early stopping  
-  - **Meta feature fusion** into the classification head  
-  - **Stage 2: Knowledge Distillation** with soft labels from the best fold model  
-  - **Softmax ensemble averaging** across fold models  
-  - Applied **mixed precision training**, **gradient clipping**, and **cosine annealing learning rate scheduling**  
-  Final private leaderboard position: **88 / Private Leaderboard**  
-  Final score: **0.14587** (98 submissions)  
-  Team name: `Human_SexyBoys` | Members: '황순기', '유순곤', '이한빈'
+- Designed AI workflows for document intelligence, retrieval, summarization, and structured knowledge extraction
+- Built evaluation logic for LLM outputs, including dataset design, answer comparison, and evidence tracking
+- Developed API-oriented AI services with attention to input/output contracts, error handling, and operational reliability
 
-- [**Kaggle March Madness 2025 Submission**](https://github.com/Sungi-Hwang/kaggle-march-madness-2025)  
-  End-to-end pipeline for predicting NCAA outcomes by combining **XGBoost margin prediction**,  
-  **GLM-based team quality estimation**, and **spline-based probability calibration**.  
-  Enhanced model generalization by **merging men's and women's tournament data**, and improved prediction calibration  
-  through **custom spline post-processing**. Key techniques included **cross-validation**, **ensemble averaging**, and  
-  **feature engineering** based on historical statistics.  
-  Final leaderboard position: **393/1727**
+### NICE P&I — Financial Engineering Lab / Valuation Engine Team
+**Oct 2023 – Dec 2024**
 
-- [**Korean Crime Statistics Analysis**](https://github.com/Sungi-Hwang/KCrimeInsight)  
-  An end-to-end data pipeline analyzing Korean crime trends across 12 years (2011–2022)  
-  using population-normalized rates and user-defined crime classification. The project includes:  
-  - **Automated data collection** from KOSIS Open API  
-  - **Custom classification** of crime types (e.g., violent, theft, sexual, gambling)  
-  - **XGBoost regression modeling** for crime rate prediction  
-  - **Interactive visual analytics** via Flask + Plotly  
-  Focused on uncovering **inter-crime correlations** and **regional crime trends**, this tool provides insight  
-  for future policy evaluation and prediction tasks.
-
-- [**Algorithm Test Practice**](https://github.com/Sungi-Hwang/Coding-Test)
-  - Upload code that solved the algorithm test problem myself
-  - I've organized the code and the flow of thoughts on how to solve it.
+- Developed and validated valuation engine logic for bonds, structured products, and financial instruments
+- Worked with numerical models including Hull-White scenarios, OAS logic, hazard-rate-based estimation, and solver-based calculations
+- Performed engine-level debugging and cross-validation using C++, SQL, Excel calculators, and API test flows
+- Focused on high-precision pricing behavior, rounding logic, accrued interest handling, and product-specific edge cases
 
 ---
 
-##  Tech Stack  
-- **Languages**: Python, C++, C, VBA  
-- **Tools**: Git, SQL  
-- **Libraries**: NumPy, Pandas, Scikit-learn, XGBoost, Statsmodels, Matplotlib
+## Selected Projects
+
+### Bio-domain Hybrid RAG & Knowledge Card Architecture
+
+Designed a retrieval architecture for large-scale scientific knowledge search over papers, patents, materials, compounds, sequences, and Q/A datasets.
+
+Core ideas:
+
+- Combine vector search, metadata filters, and graph relationships
+- Add a reusable **Knowledge Card** layer for materials, papers, patents, compounds, sequences, and Q/A clusters
+- Improve retrieval quality through candidate deduplication, evidence ranking, relation expansion, and permission-aware filtering
+- Use structured cards as a middle layer between raw documents and final LLM answers
+
+This project is summarized in public form only; implementation details and internal data are intentionally excluded.
 
 ---
 
-##  Academic Research  
-- **Dynamic Polarization Response of PM Optical Fibers under Thermal Cycling**  
-  _Review of Scientific Instruments, 2022_  
-  Designed and implemented a **Python-based control script** to actively stabilize polarization in optical fibers during thermal cycling experiments.
+### LLM-based Scientific Document Structuring / Experiment Wiki
 
-- **Optimization of Polarization Spectroscopy for the D₂ Line of ⁸⁷Rb Atoms**  
-  _Applied Sciences, 2021_  
-  Designed and simulated laser frequency locking systems for high-precision atomic transitions.
+Designed a structured knowledge workflow that converts research documents, experiment logs, configuration diffs, and model results into reusable knowledge records.
 
-- **Phase-Locking of Dual DFB Fiber Lasers for ⁸⁷Rb Interferometry**  
-  _Current Applied Physics, 2023_  
-  Implemented **GHz-range optical phase-locking** for precision measurements in atom interferometry.
+Planned / designed components:
+
+- **Dataset Cards**: dataset purpose, distribution, preprocessing, split strategy, known issues
+- **Experiment Cards**: hypothesis, model/config changes, metrics, interpretation, limitations
+- **Evidence-linked summaries**: source-aware outputs for downstream retrieval and review agents
+- **Case matching**: retrieve similar past experiments to guide future model development and debugging
+
+Goal: preserve not only "what worked", but also **why it was tried, what changed, and what was learned**.
 
 ---
 
-##  Contact  
-Feel free to reach out for questions or collaboration!  
- **sungi.hwang.work@gmail.com**
+### Janggi AI Mobile App — 장기한수
+
+Built and released a Korean chess (Janggi) mobile app as a personal product project.
+
+Highlights:
+
+- Flutter-based mobile UI
+- Integrated a native game engine for Janggi AI play
+- Implemented AI difficulty levels, move hints, captured-piece tracking, and puzzle-style study flows
+- Handled Android build issues involving native C++ engine integration, Gradle, CMake, and NDK configuration
+- Released as a real store-registered app under developer name **황순기**
+
+This project represents product-side execution: packaging, debugging, release, and user-facing iteration.
+
+---
+
+### AI Audio Processing Pipeline
+
+Repository: [KpopProject](https://github.com/Sungi-Hwang/KpopProject)
+
+Built an audio processing pipeline around model-driven audio transformation and vocal preprocessing.
+
+Key components:
+
+- FastAPI endpoints for training/inference-style automation
+- Vocal separation and audio preprocessing workflows
+- Feature extraction and index generation
+- Model artifact packaging
+- ffmpeg-based audio post-processing and mixing
+
+---
+
+### Car Image Classification with EfficientNet & Knowledge Distillation
+
+Repository: [Carclassification](https://github.com/Sungi-Hwang/Carclassification)
+
+Built an end-to-end image classification pipeline for a Korean car classification competition.
+
+Key techniques:
+
+- EfficientNet-based image classifier
+- Meta feature fusion using image-level features such as color statistics and aspect ratio
+- 5-fold cross-validation and ensemble inference
+- Knowledge distillation using teacher soft labels
+- Class imbalance handling and augmentation strategy
+- Mixed precision training, gradient clipping, and cosine learning rate scheduling
+
+Result: **Dacon private leaderboard 88 / 748**
+
+---
+
+### NCAA March Madness Prediction Pipeline
+
+Repository: [kaggle-march-madness-2025](https://github.com/Sungi-Hwang/kaggle-march-madness-2025)
+
+Built a probabilistic NCAA tournament prediction pipeline.
+
+Key techniques:
+
+- XGBoost-based margin prediction
+- GLM-style team strength estimation
+- Feature engineering from historical team statistics
+- Probability calibration using spline-based post-processing
+- Conservative probability clipping and ensemble logic
+
+Result: **Kaggle March Machine Learning Mania 2025 — 393 / 1,727**
+
+---
+
+### Korean Crime Statistics Analysis
+
+Repository: [KCrimeInsight](https://github.com/Sungi-Hwang/KCrimeInsight)
+
+Built a data analysis and visualization project for Korean crime statistics.
+
+Key components:
+
+- Automated collection from public statistical sources
+- Population-normalized crime rate analysis
+- Custom crime category mapping
+- XGBoost-based prediction experiments
+- Flask + Plotly dashboard for interactive exploration
+
+---
+
+## Academic Research
+
+### Review of Scientific Instruments — AIP Publishing, 2022
+**Dynamic polarization response of polarization-maintaining fibers by periodic thermal cycling method**
+
+- First-author research on polarization-maintaining optical fibers under thermal cycling
+- Designed and implemented experimental measurement and control logic for analyzing dynamic polarization response
+- Connected optical experimentation, automation, signal analysis, and precision measurement
+
+### Optical phase locking / Rb atom interferometry research
+
+- Worked on optical phase locking of DFB fiber lasers for precision measurement systems
+- Researched laser stabilization and spectroscopy methods related to the Rb D2 transition line
+- Built experience in experimental design, laser optics, feedback control, and measurement automation
+
+---
+
+## Technical Stack
+
+### Languages
+
+Python, C++, C, SQL, VBA, JavaScript/TypeScript basics, Dart/Flutter basics
+
+### AI / Data
+
+PyTorch, Scikit-learn, XGBoost, CatBoost, Statsmodels, NumPy, Pandas, Matplotlib, OpenCV
+
+### LLM / Retrieval / Backend
+
+FastAPI, Pydantic, LangGraph, vector search concepts, graph/RAG architecture, REST API design, evaluation pipelines
+
+### Engineering Tools
+
+Git, GitHub, Docker basics, Postman, Jupyter, Linux/Windows development environments, CMake/NDK experience
+
+---
+
+## Selected Competition Results
+
+| Competition / Project | Main Topic | Result |
+|---|---:|---:|
+| Dacon Car Classification | Image classification, EfficientNet, distillation | 88 / 748 |
+| Kaggle March Machine Learning Mania 2025 | Sports prediction, calibration | 393 / 1,727 |
+| Dacon molecular property prediction | Molecular features, CatBoost, Optuna | 13 / 763 |
+
+---
+
+## What I Care About
+
+I am especially interested in AI systems where correctness, evidence, and domain logic matter.
+
+Rather than treating models as isolated components, I prefer building systems that include:
+
+- Clear data contracts
+- Reproducible preprocessing
+- Evaluation and regression checks
+- Evidence-grounded answers
+- Human-reviewable intermediate outputs
+- Practical deployment paths
+
+---
+
+## Contact
+
+- Email: **sungi.hwang.work@gmail.com**
+- GitHub: [github.com/Sungi-Hwang](https://github.com/Sungi-Hwang)
