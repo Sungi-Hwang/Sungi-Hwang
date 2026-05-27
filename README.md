@@ -35,6 +35,8 @@ I build practical AI systems that connect **domain knowledge, data pipelines, mo
 
 ### Janggi AI Mobile App — 장기한수
 
+App: [Google Play](https://play.google.com/store/apps/details?id=com.nightsynclabs.janggihansu)
+
 Built and released a Korean chess mobile app with AI match mode, offline two-player mode, daily puzzles, problem sharing, game record review, board setup continuation, and move hint features.
 
 ### Bio-domain Hybrid RAG & Knowledge Card Architecture
