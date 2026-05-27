@@ -1,5 +1,7 @@
 # Sungi Hwang (황순기)
 
+English | [한국어](README.ko.md)
+
 **AI / Data Engineer with a Physics M.S. and financial engineering background**
 
 I build practical AI and data systems that connect **domain knowledge, data pipelines, model evaluation, retrieval workflows, and production-oriented engineering**.
