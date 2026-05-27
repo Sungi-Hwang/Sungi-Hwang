@@ -4,6 +4,8 @@
 
 I build practical AI systems that connect **domain knowledge, data pipelines, model evaluation, and production-oriented engineering**.
 
+My work has moved across three connected areas: precision physics experiments, financial valuation engines, and AI systems for document intelligence / retrieval / product development.
+
 ---
 
 ## Experience
@@ -14,24 +16,77 @@ I build practical AI systems that connect **domain knowledge, data pipelines, mo
 - AI platform development in the bio and scientific knowledge domain
 - LLM/RAG workflows for search over papers, patents, materials, Q/A datasets, compounds, and sequences
 - Hybrid retrieval architecture with vector search, graph relationships, metadata filtering, knowledge cards, and evidence-grounded generation
+- Focused on scientific knowledge search, structured document processing, and production-oriented AI service design
 
 ### Cognitum AI — AI Consulting Team
 **Nov 2025 – Apr 2026**
 
-- Enterprise AI workflows for document search, document understanding, anomaly detection, and workflow automation
-- LLM/RAG-based document intelligence, Korean NER, and API-oriented AI pipeline design
-- Proposal and architecture work for enterprise AI deployment and retrieval-based knowledge services
+- Developed and designed AI workflows for document search, document understanding, anomaly detection, and workflow automation
+- Worked on LLM/RAG-based document intelligence, Korean NER, and API-oriented AI pipeline design
+- Contributed to AI platform proposal work, architecture design, and retrieval-based knowledge service planning
+- Built practical solution flows that combine data preprocessing, model usage, evaluation logic, and service integration
 
 ### NICE P&I — Financial Engineering Lab / Valuation Engine Team
 **Oct 2023 – Dec 2024**
 
-- Valuation engine logic for bonds, structured products, and financial instruments
-- Numerical model validation with Hull-White scenarios, OAS logic, hazard-rate-based estimation, and solver-based calculations
-- Engine debugging and cross-validation using C++, SQL, Excel calculators, and API test flows
+- Developed and validated valuation engine logic for bonds, structured products, and financial instruments
+- Improved CD/CP valuation engine logic and integrated domestic/overseas evaluation structures
+- Validated financial models including Hull-White interest-rate scenarios, OAS logic, FRM rate calculation, and long-tenor yield estimation
+- Debugged pricing differences between valuation engines and API-based integration systems using C++, SQL, Excel calculators, and Postman
 
 ---
 
-## Selected Projects
+## Professional Projects
+
+### AI-based Tax Appeal Search & Case Investigation Support
+**Cognitum AI | 2025.11 – 2026.04**
+
+- Designed and developed an AI-assisted search and investigation workflow for tax appeal / administrative case documents
+- Worked on document search structure, data processing flow, retrieval architecture, and model usage pipeline
+- Participated in proposal writing and architecture design for an AI platform project
+- Focused on making domain documents searchable, comparable, and usable for case investigation workflows
+
+### Time-series Anomaly Detection Solution
+**Cognitum AI | 2025.11 – 2025.12**
+
+- Built anomaly detection logic for operational time-series data
+- Combined forecasting-oriented analysis with statistical guardrail logic
+- Designed evaluation logic to distinguish normal fluctuation from meaningful abnormal behavior
+- Focused on practical monitoring and decision-support use cases rather than one-off modeling
+
+### Korean NER-based Anonymization Pipeline
+**Cognitum AI | 2025.12 – 2026.03**
+
+- Built a Korean NER-based text processing pipeline for sensitive-entity detection and anonymized document handling
+- Worked on label design, entity extraction, rule-based post-processing, and API-oriented integration
+- Focused on practical document AI workflows where extraction quality, consistency, and reviewability matter
+
+### CD/CP Valuation Engine Integration
+**NICE P&I | 2024.01 – 2024.03**
+
+- Improved and integrated CD/CP valuation engine logic
+- Refactored KRW-only logic into a structure supporting global day-count and business-day conventions
+- Integrated domestic and overseas CD/CP evaluation logic and data structures
+- Improved output-unit decimal handling and rounding behavior
+
+### Financial Valuation Logic Verification & Engine Testing
+**NICE P&I | 2024.03 – 2024.06**
+
+- Verified Hull-White-based interest-rate scenario generation and FRM rate calculation logic
+- Reviewed OEB bond OAS calculation logic
+- Improved accrued-interest calculation for prepaid bond structures by converting cashflow logic to a postpaid structure and testing edge cases
+- Reduced pricing mismatches and errors between the SB valuation engine and Postman-based integration checks
+
+### Long-tenor Corporate Bond Yield Estimation Logic
+**NICE P&I | 2024.06 – 2024.12**
+
+- Designed a hazard-rate-based YTM inversion approach for long-maturity corporate bonds
+- Applied credit-rating-based default probability assumptions to compensate for sparse transaction data
+- Improved evaluation logic for low-credit / long-tenor bonds where direct market observations were insufficient
+
+---
+
+## Selected Personal / Public Projects
 
 ### Janggi AI Mobile App — 장기한수
 
@@ -52,6 +107,15 @@ Designed a workflow that converts research documents, experiment logs, configura
 Repository: [KpopProject](https://github.com/Sungi-Hwang/KpopProject)
 
 Built an audio processing pipeline around model-driven audio transformation and vocal preprocessing.
+
+### Dacon Boost Up AI — Molecular Property Prediction
+
+Built a regression pipeline for predicting CYP3A4 inhibition using SMILES-based molecular features.
+
+- RDKit physicochemical descriptors and Morgan Fingerprint features
+- CatBoost regression with Optuna-based parameter tuning
+- Domain-informed interpretation using Lipinski-style molecular properties
+- Result: **13 / 763**
 
 ### Car Image Classification
 
